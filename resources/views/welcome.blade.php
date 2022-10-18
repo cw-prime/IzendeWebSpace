@@ -93,7 +93,7 @@
                             </svg>
 
                             <a href="https://github.com/sponsors/taylorotwell" class="ml-1 underline">
-                                Sponsoredss
+                                Sponsoredsssss
                             </a>
                         </div>
                     </div>
